@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256720105252081529/27d6182c90174fedbd6d0b5065513a07/artifacts
+end_time: 1745945516980
+entry_point_name: ''
+experiment_id: '256720105252081529'
+lifecycle_stage: active
+run_id: 27d6182c90174fedbd6d0b5065513a07
+run_name: puzzled-auk-164
+run_uuid: 27d6182c90174fedbd6d0b5065513a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745945516820
+status: 3
+tags: []
+user_id: sarefin

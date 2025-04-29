@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428047793153508876/74e5fcae3f954d10bf303c4ee7a824ba/artifacts
+end_time: 1745965068111
+entry_point_name: ''
+experiment_id: '428047793153508876'
+lifecycle_stage: active
+run_id: 74e5fcae3f954d10bf303c4ee7a824ba
+run_name: calm-lamb-254
+run_uuid: 74e5fcae3f954d10bf303c4ee7a824ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745965050427
+status: 3
+tags: []
+user_id: sarefin

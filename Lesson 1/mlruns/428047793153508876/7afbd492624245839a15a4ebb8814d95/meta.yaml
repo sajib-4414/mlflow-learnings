@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428047793153508876/7afbd492624245839a15a4ebb8814d95/artifacts
+end_time: 1745969275945
+entry_point_name: ''
+experiment_id: '428047793153508876'
+lifecycle_stage: active
+run_id: 7afbd492624245839a15a4ebb8814d95
+run_name: polite-owl-741
+run_uuid: 7afbd492624245839a15a4ebb8814d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745969263746
+status: 3
+tags: []
+user_id: sarefin

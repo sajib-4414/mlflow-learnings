@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256720105252081529/deae2d5c9df14160bffdcb9804a42a95/artifacts
+end_time: 1745945516673
+entry_point_name: ''
+experiment_id: '256720105252081529'
+lifecycle_stage: active
+run_id: deae2d5c9df14160bffdcb9804a42a95
+run_name: marvelous-lamb-857
+run_uuid: deae2d5c9df14160bffdcb9804a42a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745945516533
+status: 3
+tags: []
+user_id: sarefin
